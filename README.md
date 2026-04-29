@@ -102,14 +102,11 @@ This setup includes:
 
 #### User Data Script
 
-```bash
+
 #!/bin/bash
 yum install -y httpd
 systemctl start httpd
 echo "Healthy from $(hostname)" > /var/www/html/index.html
-```
-
----
 
 ### 9. Auto Scaling Group
 
