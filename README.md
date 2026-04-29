@@ -1,10 +1,10 @@
-# 🚀 AWS High Availability Web Architecture
+#  AWS High Availability Web Architecture
 
 This project demonstrates how to build a **highly available, scalable web architecture on AWS** using core networking and compute services.
 
 ---
 
-## 📌 Architecture Overview
+##  Architecture Overview
 
 This setup includes:
 
@@ -19,13 +19,13 @@ This setup includes:
 
 ---
 
-## 🏗️ Architecture Diagram
+##  Architecture Diagram
 
 ![Architecture](diagrams/architecture.png)
 
 ---
 
-## ⚙️ Step-by-Step Implementation
+##  Step-by-Step Implementation
 
 ### 1. Create VPC
 
@@ -149,7 +149,7 @@ Healthy from ip-10-0-x-x
 
 ---
 
-## 👨‍💻 Author
+##  Author
 
 Kavya
 
